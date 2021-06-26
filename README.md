@@ -1,0 +1,2 @@
+# Hearthstone-Game
+Academic project 
